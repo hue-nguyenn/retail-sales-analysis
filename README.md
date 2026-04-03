@@ -62,3 +62,8 @@ The EDA focuses on:
 
 4. Product category preferences and demand vary across demographics.
 * The analysis insights suggest demographic tailored marketing. For example, clothing is a universal category, appealing to both genders and different age groups, or beauty products are favored more by females. Therefore, marketing for new gadgets should target male demographics, while skincare campaigns should prioritize female audiences.
+
+# FUTURE IMPROVEMENTS
+* Build predictive models for sales forecasting
+* Customer segmentation using clustering techniques
+* Dashboard development (Power BI / Tableau)
